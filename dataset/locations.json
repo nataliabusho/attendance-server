@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Ελληνικο Μεσογειακό Πανεπιστήμιο",
+      "capacity": 2000,
+      "email": "gatzouni@hmu.gr",
+      "locationCoordinates": {
+        "type": "Point",
+        "coordinates": [
+          "24.042272043735295",
+          "35.51901923465353"
+        ]
+      }
+    },
+    {
+      "name": "Πολυτεχνειο Κρητης",
+      "capacity": 3000,
+      "email": "webmaster@tuc.gr",
+      "locationCoordinates": {
+        "type": "Point",
+        "coordinates": [
+          "24.068638086021945",
+          "35.53063263695736"
+        ]
+      }
+    },
+    {
+      "name": "Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης",
+      "capacity": 4000,
+      "email": "pr@auth.gr",
+      "locationCoordinates": {
+        "type": "Point",
+        "coordinates": [
+          "22.959973418489728",
+          "40.63112142357197"
+        ]
+      }
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+      "rfid": "1-35-69-103",
+      "email": "natalia@example.com",
+      "name": "Natalia",
+      "lastName": "Busho",
+      "health_status": "HEALTHY",
+      "address": "unknown street",
+      "phone_number": "6970000000"
+    },
+    {
+      "rfid": "101-89-202-53",
+      "email": "johndoe@example.com",
+      "name": "John",
+      "lastName": "Doe",
+      "health_status": "COMPROMISED",
+      "address": "unknown street2",
+      "phone_number": "6980000000"
+    },
+    {
+      "rfid": "231-172-202-53",
+      "email": "janedoe@example.com",
+      "name": "Jane",
+      "lastName": "Doe",
+      "health_status": "HEALTHY",
+      "address": "unknown street3",
+      "phone_number": "6990000000"
+    }
+  ]
